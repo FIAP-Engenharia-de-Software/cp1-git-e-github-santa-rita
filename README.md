@@ -20,3 +20,7 @@ O SocialConnect é um projeto desenvolvido com o objetivo de simular uma platafo
 * Gustavo Almeida Lopes do Nascimento - RM 571070
 * João Gabriel Mosqueti Agra Cunha - RM 572017
 * Rafael Yuta Nischida - RM 570552
+
+🔗 Acesse o projeto
+
+Clique aqui para acessar (https://fiap-engenharia-de-software.github.io/cp1-git-e-github-santa-rita/#)
